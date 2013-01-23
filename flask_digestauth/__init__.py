@@ -1,1 +1,1 @@
-from flask_digestauth import DigestAuth
+from .flask_digestauth import DigestAuth
